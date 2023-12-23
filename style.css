@@ -1,5 +1,6 @@
 body {
     font-family: sans-serif;
+    background-color: #DFE2FC;
 }
 header {
     background-color: #8B7AF0;
@@ -21,4 +22,42 @@ nav a {
     padding: 10px;
     background-color: #8EAFF0;
     float: left;
+}
+main h1 {
+    text-align: center;
+    background-color: #B78EF0;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: 340px;
+    margin-right: 340px;
+    border-radius: 13px;
+}
+h2 {
+    background-color: #B78EF0;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    border-radius: 6px;
+    margin-right: 725px;
+}
+main p, ul {
+    color: #8864BA;
+}
+.picture2 {
+    padding-left: 40px;
+}
+footer {
+    background-color: #7A68E7;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+footer p {
+ color: #7A68E7;
+ background-color: white;
+ border-radius: 7px;
+ margin-left: 10px;
+ padding: 10px;
+ margin-right: 540px;
 }
