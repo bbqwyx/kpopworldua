@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color: #8B7AF0;
+    display: flex;
+}
+.logo {
+    width: 150px;
+    height: 150px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+nav a {
+    margin: 20px 10px 0px 15px;
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    border-radius: 13px;
+    padding: 10px;
+    background-color: #8EAFF0;
+}
